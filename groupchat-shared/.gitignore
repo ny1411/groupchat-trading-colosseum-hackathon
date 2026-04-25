@@ -1,0 +1,12 @@
+# Workspace-level editor and OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+dist/
+node_modules/
+
+# Root-level environment files
+.env
+.env.local
+.env.*.local
